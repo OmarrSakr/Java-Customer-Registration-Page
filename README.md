@@ -10,7 +10,7 @@ A **desktop application** built using *`Java`*, designed to **streamline the pro
 
 - `Java (Swing)`: Used for building the graphical user interface and implementing the business logic.
 
-- `File Handling`: Utilized to save and retrieve customer data via `.txt` files for persistent storage.
+- `File Handling`: Saves and loads customer data from a `.bin` file for persistent storage
 
 ## 📂 Features:
 
@@ -58,6 +58,6 @@ We welcome `contributions` to **Customer Registration Page (Java)**! Here’s ho
 
 ## 🔄 Future Enhancements:
 
-- Integrate a database system (e.g., MySQL or SQLite) for better scalability and performance.
-- Implement role-based user authentication for enhanced security.
-- Add support for exporting customer data to Excel or PDF.
+- Integration with a database (e.g., MySQL) for better scalability.
+- Role-based authentication for added security.
+- Export functionality for customer data (e.g., to Excel or PDF).
