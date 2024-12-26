@@ -1,3 +1,7 @@
+# Screenshots
+
+
+
 # Customer Registration Page (Java) 💻🖱️
 
 A **desktop application** built using *`Java`*, designed to **streamline the process of registering customers**. The application features **a clean and user-friendly interface for creating, managing, and storing customer information effectively.**
@@ -60,10 +64,9 @@ We welcome `contributions` to **Customer Registration Page (Java)**! Here’s ho
    https://github.com/OmarrSakr/Java-Customer-Registration-Page.git
 
 ---
-## 💡 How to Run the Project:
+## 💡 How to Run the Project
 
 1. Open the project in *`NetBeans`* Program or your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
-
 2. Compile and run the application.
 
 ## 🔄 Future Enhancements:
