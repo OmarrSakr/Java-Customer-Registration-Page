@@ -1,7 +1,7 @@
 # Screenshots
+![JavaProject1](https://github.com/user-attachments/assets/56c509f5-9f11-4aba-8aac-99dd8c33c8d0)
 
-
-
+---
 # Customer Registration Page (Java) 💻🖱️
 
 A **desktop application** built using *`Java`*, designed to **streamline the process of registering customers**. The application features **a clean and user-friendly interface for creating, managing, and storing customer information effectively.**
