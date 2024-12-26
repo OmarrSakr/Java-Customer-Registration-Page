@@ -40,19 +40,6 @@ A **desktop application** built using *`Java`*, designed to **streamline the pro
 
 - The project is fully functional and uses file handling for data storage instead of a database. It is currently optimized for desktop environments.
 
-## 🔑 Example Code Snippet for Saving Data:
-Below is a sample of how customer data is saved to a file:
-```
-// Define the file path
-String fileName = "customerData.txt";
-try (FileWriter fileWriter = new FileWriter(fileName, true); BufferedWriter bufferedWriter = new BufferedWriter(fileWriter)) {
-    bufferedWriter.write("Customer ID: " + customerId + ", Name: " + customerName + ", Email: " + customerEmail);
-    bufferedWriter.newLine();
-    JOptionPane.showMessageDialog(null, "Customer details saved successfully!");
-} catch (IOException e) {
-    JOptionPane.showMessageDialog(null, "Error saving customer details: " + e.getMessage());
-}
-```
 ---
 ## How to Use 🚀  
 
